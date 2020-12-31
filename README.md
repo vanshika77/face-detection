@@ -6,5 +6,5 @@ I had less number of photographs to train my model, hence i have used ImageDataG
 
 ImageDataGenerator
 ____________________________________________________________________________________________________________________________________________________________________________________
-lets see how ImageDataGenerator works
+Lets see how ImageDataGenerator works.
 The Keras deep learning neural network library provides the capability to fit models using image data augmentation via the ImageDataGenerator class.
